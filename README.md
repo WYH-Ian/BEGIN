@@ -1,7 +1,2 @@
 # BEGIN
-test:
-
-|我也｜不知｜写啥｜
-|:---|---:|:---:|
-|你说我｜12｜34｜
-|写点啥｜567｜890｜                                                                                      
+[README.md](https://github.com/WYH-Ian/BEGIN/files/9675991/README.md)
